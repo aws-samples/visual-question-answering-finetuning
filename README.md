@@ -6,7 +6,7 @@ This repository implements a machine learning training and inference regiment, u
 
 To solve this problem, this post shows how to extract domain-specific product attributes from product images by fine-tuning a VLM (Vision-Language Model) on a fashion dataset using Amazon SageMaker, and then use Amazon Bedrock to generate product descriptions using the extracted attributes as input.
 
-For a detailed walkthrough of this repository, please refer to our ***blogpost(TODO ADD LINK)***
+For a detailed walkthrough of this repository, please refer to our [blogpost](https://aws.amazon.com/blogs/machine-learning/generating-fashion-product-descriptions-by-fine-tuning-a-vision-language-model-with-sagemaker-and-amazon-bedrock).
 
 ## Data and Use case
 
